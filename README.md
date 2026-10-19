@@ -4,6 +4,8 @@
 
 NexCart is a modern, premium e-commerce product discovery and management application built with Next.js App Router, Firebase Authentication, and Tailwind CSS.
 
+Live Link: https://nexcart-five-flame.vercel.app/
+
 ---
 
 ## ✨ Features
